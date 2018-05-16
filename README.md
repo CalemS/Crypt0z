@@ -5,7 +5,7 @@ https://discord.gg/8GcFtUX
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Screw copyright Calem -2018
+Copyright (c) 2018 Crypt0z
 
 What is Crypt0z?
 ----------------
@@ -18,10 +18,6 @@ Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 3
  - 99% of coins produced over ~5 years using DoI minting schedule
  - ~25 million total coins
  - +much more planned
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
 
 For more information, see https://discord.gg/8GcFtUX
 
