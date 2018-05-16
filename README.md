@@ -11,7 +11,7 @@ What is Crypt0z?
 ----------------
 
 Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 32MB block sizes and the diffusion of innovations in replacement of the standard halving adopted by 99% of cryptocurrencies. Everything else is pretty normal.
- - 32 Meg Blocksize (On-Chain Scaling)
+ - 32 MB Blocksize (On-Chain Scaling)
  - 2 hour difficulty retarget
  - 2 minute block targets
  - 30 blocks for full confirmation
