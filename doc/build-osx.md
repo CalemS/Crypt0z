@@ -76,7 +76,7 @@ Installing the dependencies using MacPorts is very straightforward.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone git@github.com:crypt0z/crypt0z.git crypt0z
+        git clone git@github.com:calems/crypt0z.git crypt0z
         cd crypt0z
 
 2.  Build crypt0zd:
@@ -111,7 +111,7 @@ Rerunning "openssl version" should now return the correct version.
 
 1. Clone the github tree to get the source code and go into the directory.
 
-        git clone https://github.com/crypt0z/crypt0z.git
+        git clone https://github.com/calems/crypt0z.git
         cd crypt0z
 
 2.  Modify source in order to pick up the `openssl` library.
