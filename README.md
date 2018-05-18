@@ -2,6 +2,7 @@ Crypt0z integration/staging tree
 ================================
 
 https://discord.gg/8GcFtUX
+https://x0z.magnificentpool.com/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -19,7 +20,6 @@ Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 3
  - ~25 million total coins
  - +much more planned
 
-For more information, see https://discord.gg/8GcFtUX
 
 License
 -------
