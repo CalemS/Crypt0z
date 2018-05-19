@@ -1,6 +1,7 @@
 Crypt0z integration/staging tree
 ================================
 
+BTC ANN https://bitcointalk.org/index.php?topic=2892911
 Community https://discord.gg/8GcFtUX
 Pool 1 https://x0z.magnificentpool.com/
 Block Explorer http://18.217.129.225:3001/
