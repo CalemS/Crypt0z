@@ -1,8 +1,9 @@
 Crypt0z integration/staging tree
 ================================
 
-https://discord.gg/8GcFtUX
-https://x0z.magnificentpool.com/
+Community https://discord.gg/8GcFtUX
+Pool 1 https://x0z.magnificentpool.com/
+Block Explorer http://18.217.129.225:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
