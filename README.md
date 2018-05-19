@@ -17,7 +17,7 @@ Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 3
  - 2 hour difficulty retarget
  - 2 minute block targets
  - 30 blocks for full confirmation
- - 99% of coins produced over ~6 years using DoI minting schedule
+ - 99% of coins produced over 5 years using DoI minting schedule
  - ~25 million total coins
  - +much more planned (Starting with Atomic Swaps)
 
