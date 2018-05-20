@@ -1,6 +1,7 @@
 Crypt0z integration/staging tree
 ================================
 
+Website http://www.crypt0z.us/
 BTC ANN https://bitcointalk.org/index.php?topic=2892911
 Community https://discord.gg/8GcFtUX
 Pool 1 https://x0z.magnificentpool.com/
