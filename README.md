@@ -4,11 +4,12 @@ Crypt0z integration/staging tree
 BTC ANN https://bitcointalk.org/index.php?topic=2892911
 Community https://discord.gg/8GcFtUX
 Pool 1 https://x0z.magnificentpool.com/
+Pool 2 http://pool.fatpanda.club
 Block Explorer http://18.217.129.225:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Crypt0z
+Copyright (c) 2018 Crypt0z Developers
 
 What is Crypt0z?
 ----------------
