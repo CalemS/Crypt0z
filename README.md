@@ -2,7 +2,7 @@ Crypt0z integration/staging tree
 ================================
 
 Website http://www.crypt0z.us/
-BTC ANN https://bitcointalk.org/index.php?topic=2892911
+BTC ANN https://bitcointalk.org/index.php?topic=4096286.0
 Community https://discord.gg/8GcFtUX
 Pool 1 https://x0z.magnificentpool.com/
 Pool 2 http://pool.fatpanda.club
@@ -14,6 +14,8 @@ Copyright (c) 2018 Crypt0z Developers
 
 What is Crypt0z?
 ----------------
+
+In one line? An experiment on Blockspace Economics using a Diffusion of Innovations based incentive model.
 
 Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 32MB block sizes and the diffusion of innovations in replacement of the standard halving adopted by 99% of cryptocurrencies. Everything else is pretty normal.
  - 32 MB Blocksize (On-Chain Scaling)
