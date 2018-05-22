@@ -3,10 +3,11 @@ Crypt0z integration/staging tree
 
 Website http://www.crypt0z.us/
 Exchange https://meanxtrade.com/trade/btc/x0z
-BTC ANN https://bitcointalk.org/index.php?topic=4096286.0
+BTC ANN https://bitcointalk.org/index.php?topic=4096286
 Community https://discord.gg/8GcFtUX
 Pool 1 https://x0z.magnificentpool.com/
 Pool 2 http://pool.fatpanda.club
+Pool https://umine.org/
 Block Explorer http://18.217.129.225:3001/
 
 Copyright (c) 2009-2014 Bitcoin Developers
