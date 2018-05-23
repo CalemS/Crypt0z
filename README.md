@@ -2,6 +2,7 @@ Crypt0z integration/staging tree
 ================================
 
 Website http://www.crypt0z.us/
+Twitter https://twitter.com/crypt0z_x0z
 Exchange https://meanxtrade.com/trade/btc/x0z
 BTC ANN https://bitcointalk.org/index.php?topic=4096286
 Community https://discord.gg/8GcFtUX
