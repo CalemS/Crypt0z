@@ -15,16 +15,18 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Crypt0z Developers
 
-What is Crypt0z?
+What is Crypt0z? (Zero Zed Ecosystem & Algorithm)
 ----------------
 
+Mission Goal: 
+
+Create an easily replicable software, hardware and decentralised autonomous organisational structure of which can be used to empower and advance emerging nations seamlessly into the present and beyond into a future without a centralised State run governance system required to sustain it.
 In one line? An experiment on Blockspace Economics using a Diffusion of Innovations based incentive model.
 
 Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 32MB block sizes and the diffusion of innovations in replacement of the standard halving adopted by 99% of cryptocurrencies. Everything else is pretty normal.
  - 32 MB Blocksize (On-Chain Scaling)
  - 2 hour difficulty retarget
  - 2 minute block targets
- - 30 minutes for full confirmation
  - 99% of coins produced over 5 years using DoI minting schedule
  - ~25 million total coins
  - +much more planned (Starting with Atomic Swaps)
