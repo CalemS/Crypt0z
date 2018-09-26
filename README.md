@@ -1,29 +1,32 @@
-Crypt0z (Rebranding to Zero Zed) integration/staging tree
+Crypt0z (Rebranding to Zeroed) integration/staging tree
 ================================
 
 Website http://www.crypt0z.us/
-Twitter https://twitter.com/crypt0z_x0z
+Twitter https://twitter.com/zerozed_x0z
 Exchange https://meanxtrade.com/trade/btc/x0z
 BTC ANN https://bitcointalk.org/index.php?topic=4096286
-Community https://discord.gg/8GcFtUX
+Discord https://discord.gg/8GcFtUX
+Telegram https://t.me/zerozed_x0z
 Pool 1 https://x0z.magnificentpool.com/
-Pool 2 http://pool.fatpanda.club
+Pool 2 (DOWN) http://pool.fatpanda.club 
 Pool https://umine.org/
 Block Explorer http://18.217.129.225:3001/
+Block Explorer 2 https://umine.org/explorer/x0z
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2018 Crypt0z Developers
+Copyright (c) 2018 Zerozed Developers
 
-What is Crypt0z? (Zero Zed Ecosystem & Algorithm)
+What is Zerozed? (Zero Zed Ecosystem & Algorithm)
 ----------------
 
 Mission Goal: 
 
 Create an easily replicable software, hardware and decentralised autonomous organisational structure of which can be used to empower and advance emerging nations seamlessly into the present and beyond into a future without a centralised State run governance system required to sustain it.
+
 In one line? An experiment on Blockspace Economics using a Diffusion of Innovations based incentive model.
 
-Crypt0z is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 32MB block sizes and the diffusion of innovations in replacement of the standard halving adopted by 99% of cryptocurrencies. Everything else is pretty normal.
+Zerozed is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 32MB block sizes and the diffusion of innovations in replacement of the standard halving adopted by 99% of cryptocurrencies. Everything else is pretty normal. Launched under "Crypt0z" branding.
  - 32 MB Blocksize (On-Chain Scaling)
  - 2 hour difficulty retarget
  - 2 minute block targets
@@ -59,8 +62,7 @@ sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
 
 License
 -------
-
-Crypt0z is released under the terms of the MIT license. See `COPYING` for more
+Zerozed is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -69,7 +71,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Crypt0z
+If it is a simple/trivial/non-controversial change, then one of the Zerozed
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -105,5 +107,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
-    ./crypt0z-qt_test
+    ./zerozed-qt_test
 
