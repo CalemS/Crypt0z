@@ -1,4 +1,4 @@
-Crypt0z (Rebranding to Zeroed) integration/staging tree
+Zerozed (formerly "Crypt0z") integration/staging tree
 ================================
 
 Website http://www.crypt0z.us/
