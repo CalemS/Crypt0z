@@ -17,9 +17,9 @@ Pool 1 https://x0z.magnificentpool.com/
 
 Pool 2 (DOWN) http://pool.fatpanda.club 
 
-Pool https://umine.org/
+Pool 3 https://umine.org/
 
-Block Explorer http://18.217.129.225:3001/
+Block Explorer 1 http://18.217.129.225:3001/
 
 Block Explorer 2 https://umine.org/explorer/x0z
 
