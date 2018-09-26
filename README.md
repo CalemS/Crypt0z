@@ -2,16 +2,27 @@ Zerozed (formerly "Crypt0z") integration/staging tree
 ================================
 
 Website http://www.crypt0z.us/
+
 Twitter https://twitter.com/zerozed_x0z
+
 Exchange https://meanxtrade.com/trade/btc/x0z
+
 BTC ANN https://bitcointalk.org/index.php?topic=4096286
+
 Discord https://discord.gg/8GcFtUX
+
 Telegram https://t.me/zerozed_x0z
+
 Pool 1 https://x0z.magnificentpool.com/
+
 Pool 2 (DOWN) http://pool.fatpanda.club 
+
 Pool https://umine.org/
+
 Block Explorer http://18.217.129.225:3001/
+
 Block Explorer 2 https://umine.org/explorer/x0z
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
