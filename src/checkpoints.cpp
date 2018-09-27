@@ -37,11 +37,12 @@ namespace Checkpoints
         boost::assign::map_list_of
         (  0, uint256("0xb345b68b4c08441d6b7f9f58f9fa83b0bce5b670afa7274e3f5725ea1be8fb03"))
         (  3000, uint256("0xb0ea56476c346365b01bf3b065be5a1a3d31bc776608386777e202a6f6ddcbaf"))
-        ;
+        (  85000, uint256("0xd9b7185f06eacb745b59c1f8edf488751447ad9b6a8a18d44262d9e1fb21bfe6"));
+
     static const CCheckpointData data = {
         &mapCheckpoints,
-        1526857262, // * UNIX timestamp of last checkpoint block
-        3755,    // * total number of transactions between genesis and last checkpoint
+        1537945577, // * UNIX timestamp of last checkpoint block // if this doesn't work it's 1537949177
+        91044,    // * total number of transactions between genesis and last checkpoint
                     //   (the tx=... number in the SetBestChain debug.log lines)
         1000.0     // * estimated number of transactions per day after checkpoint
     };
