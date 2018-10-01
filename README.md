@@ -13,6 +13,8 @@ Discord https://discord.gg/8GcFtUX
 
 Telegram https://t.me/zerozed_x0z
 
+IRC #zerozed irc.freenode.net
+
 Pool 1 https://x0z.magnificentpool.com/
 
 Pool 2 (DOWN) http://pool.fatpanda.club 
@@ -24,12 +26,15 @@ Block Explorer 1 http://18.217.129.225:3001/
 Block Explorer 2 https://umine.org/explorer/x0z
 
 
+
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Zerozed Developers
 
 What is Zerozed? (Zero Zed Ecosystem & Algorithm)
 ----------------
+
+Zerozed is a Smart Inflation Cryptocurrency which utilises the Diffusion of Innovations to fairly distribute supply evenly among the population.
 
 Mission Goal: 
 
@@ -44,6 +49,14 @@ Zerozed is a litecoin v0.8 fork using scrypt as a proof-of-work algorithm with 3
  - 99% of coins produced over 5 years using DoI minting schedule
  - ~25 million total coins
  - +much more planned (Starting with Atomic Swaps)
+
+Fifty percent of the world's net wealth belongs to one percent of the population. The emergence of Cryptocurrency has brought about a rapid disruption across many industries but none more than Finance and Economics. Due to the inherent flaw in Bitcoin and by extension 99% of Blockchain based Distributed Ledger Technologies, "Crypto" has succumbed to the same fate as Fiat. Riddled with systemic issues and mass centralisation of supply. 
+    This is all due to the inflation model otherwise known as the "halving-mechanism", one of which no one has seemingly questioned. This paper seeks to solve these problems with an alternative model for incentive and inflation. In replacement to the standard halving-mechanism employed by the greater majority of Cryptocurrencies to-date, we demonstrate the modeling of an inflation schedule guided by the theory, Diffusion of Innovations.
+
+We have proposed an inflation model for Cryptocurrencies yet to launch, as well as coins existing today, to set or retarget subsidy schedules in order to follow a more sustainable and diffusion-viable incentive model. By utilising the Diffusion of Innovations we can establish the Normal Distribution within a socioeconomic environment and the Zerozed team have set out to prove this via bootstrapping a brave new Cryptocurrency with our MVP, x0z.
+    The Zerozed team will endeavour to contribute and assist with broader crypto innovations and interoperability in order to provide all the necessary conditions which provide the best chance of survival within the ever evolving space. If proven successful, the Zerozed project is expected to thrive well beyond the initial inflation cycle and is set to bring to light information that will assist the industry as a whole, in turn gaining broader acceptance and diffusion of Cryptocurrencies and Distributed Ledger Technologies through society.
+
+
 
 Easiest to compile with this untill rebase is done in the coming weeks http://old-releases.ubuntu.com/releases/16.04.3/ubuntu-16.04.3-desktop-amd64.iso
 
