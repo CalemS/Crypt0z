@@ -13,7 +13,7 @@ Discord https://discord.gg/8GcFtUX
 
 Telegram https://t.me/zerozed_x0z
 
-IRC #zerozed irc.freenode.net
+IRC #zerozed https://webchat.freenode.net/
 
 Pool 1 https://x0z.magnificentpool.com/
 
