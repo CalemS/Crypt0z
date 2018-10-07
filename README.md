@@ -56,9 +56,11 @@ Fifty percent of the world's net wealth belongs to one percent of the population
 We have proposed an inflation model for Cryptocurrencies yet to launch, as well as coins existing today, to set or retarget subsidy schedules in order to follow a more sustainable and diffusion-viable incentive model. By utilising the Diffusion of Innovations we can establish the Normal Distribution within a socioeconomic environment and the Zerozed team have set out to prove this via bootstrapping a brave new Cryptocurrency with our MVP, x0z.
     The Zerozed team will endeavour to contribute and assist with broader crypto innovations and interoperability in order to provide all the necessary conditions which provide the best chance of survival within the ever evolving space. If proven successful, the Zerozed project is expected to thrive well beyond the initial inflation cycle and is set to bring to light information that will assist the industry as a whole, in turn gaining broader acceptance and diffusion of Cryptocurrencies and Distributed Ledger Technologies throughout society.
 
+Compiling is currently a nitemare. Sorry.
 
+Easiest to compile with this untill rebase is done in the coming weeks http://old-releases.ubuntu.com/releases/16.04.3/ubuntu-16.04.3-desktop-amd64.iso  
 
-Easiest to compile with this untill rebase is done in the coming weeks http://old-releases.ubuntu.com/releases/16.04.3/ubuntu-16.04.3-desktop-amd64.iso
+(this might help as well) https://stackoverflow.com/questions/28958570/dependency-failure-while-installing-libboost-all-dev-on-ubuntu-core-14-04 https://askubuntu.com/questions/300872/help-installing-libboost-system-dev-et-al
 
 sudo apt-get install git
 
