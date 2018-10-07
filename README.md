@@ -58,9 +58,12 @@ We have proposed an inflation model for Cryptocurrencies yet to launch, as well 
 
 Compiling is currently a nitemare. Sorry.
 
-Easiest to compile with this untill rebase is done in the coming weeks http://old-releases.ubuntu.com/releases/16.04.3/ubuntu-16.04.3-desktop-amd64.iso  
+Easiest to compile with this untill rebase to Bitcoin ABC is done http://old-releases.ubuntu.com/releases/16.04.3/ubuntu-16.04.3-desktop-amd64.iso
 
-(this might help as well) https://stackoverflow.com/questions/28958570/dependency-failure-while-installing-libboost-all-dev-on-ubuntu-core-14-04 https://askubuntu.com/questions/300872/help-installing-libboost-system-dev-et-al
+(this might help as well)
+
+https://stackoverflow.com/questions/28958570/dependency-failure-while-installing-libboost-all-dev-on-ubuntu-core-14-04 https://askubuntu.com/questions/300872/help-installing-libboost-system-dev-et-al
+
 
 sudo apt-get install git
 
