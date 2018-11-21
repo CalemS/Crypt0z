@@ -1,3 +1,5 @@
+Outdated Codebase - please us https://github.com/ZerozedProject/zerozed
+
 Zerozed (formerly "Crypt0z") integration/staging tree
 ================================
 
